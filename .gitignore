@@ -7,8 +7,9 @@
 !/Part 1
 !/Part 2
 !/Part 3
-
+!/Titanic 
 !.gitignore
+!mydata.sqlite
 
 # Ignore folders.
 .ipynb_checkpoints
